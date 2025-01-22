@@ -1,0 +1,10 @@
+version: '3.8'  # Docker Compose 파일의 스키마 버전
+
+services:
+  redis:  # 서비스 이름 (Redis 서버)
+    image: redis:latest  # Redis Docker 이미지를 사용
+    container_name: redis-prod  # 컨테이너 이름
+    ports:
+      - "6380:6379"  # 외부 포트 6380 -> 내부 포트 6379
+    command: ["redis-server", "--requirepass", "${REDIS_PASSWORD}"]  # Redis 비밀번호 설정
+    restart: unless-stopped  # 컨테이너가 종료되면 자동 재시작
