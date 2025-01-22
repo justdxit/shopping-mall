@@ -1,4 +1,4 @@
-package com.moodone.shopping_mall.entity;
+package com.moodone.mgear.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;

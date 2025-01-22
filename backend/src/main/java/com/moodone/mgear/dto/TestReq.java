@@ -1,4 +1,4 @@
-package com.moodone.shopping_mall.dto;
+package com.moodone.mgear.dto;
 
 public class TestReq {
     private String key;

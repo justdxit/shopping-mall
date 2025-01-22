@@ -1,4 +1,4 @@
-package com.moodone.shopping_mall;
+package com.moodone.mgear;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

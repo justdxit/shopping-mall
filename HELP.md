@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.moodone.shopping-mall' is invalid and this project uses 'com.moodone.shopping_mall' instead.
+* The original package name 'com.moodone.shopping-mall' is invalid and this project uses 'com.moodone.mgear' instead.
 
 # Getting Started
 

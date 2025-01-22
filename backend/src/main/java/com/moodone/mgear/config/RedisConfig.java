@@ -1,4 +1,4 @@
-package com.moodone.shopping_mall.config;
+package com.moodone.mgear.config;
 
 import java.time.Duration;
 

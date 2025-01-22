@@ -1,6 +1,6 @@
-package com.moodone.shopping_mall.controller;
+package com.moodone.mgear.controller;
 
-import com.moodone.shopping_mall.dto.TestReq;
+import com.moodone.mgear.dto.TestReq;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;

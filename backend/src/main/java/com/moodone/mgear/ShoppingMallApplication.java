@@ -1,4 +1,4 @@
-package com.moodone.shopping_mall;
+package com.moodone.mgear;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
